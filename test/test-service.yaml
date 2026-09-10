@@ -15,5 +15,4 @@ spec:
               service:
                 name: guestbook-ui-2
                 port:
-                  number: 80
-                  nodePort: 30002
+                  name: http
